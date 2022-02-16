@@ -1,3 +1,3 @@
 # oss-file-server
 
-Just execute ```shell bash run.sh``` to run.
+Just execute ```bash run.sh``` to run.
